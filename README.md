@@ -1,3 +1,43 @@
+
+## Description
+
+A command line tool that allows users to input info about employees and then generates an HTML that displays summaries for each team member.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
+
+## Installation
+
+Clone the repo and run `npm install` for the required dependencies.
+
+## Usage
+
+Application will be invoked by using the `node index.js` command in the terminal.
+The created team.html file is saved in Dist folder.
+
+Application contains tests.
+
+Test Suites: 4 passed, 4 total
+Tests:       16 passed, 16 total
+Snapshots:   0 total
+Time:        1.756 s
+Ran all test suites.
+
+## Contributing
+
+Anybody can modify or advise on devepoling the app.
+
+## Demo
+
+![Team Profile Generator demo](demo.gif)
+
+
+
 # 10 Object-Oriented Programming: Team Profile Generator
 
 ## Your Task
