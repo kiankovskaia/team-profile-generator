@@ -1,15 +1,7 @@
 
 ## Description
 
-A command line tool that allows users to input info about employees and then generates an HTML that displays summaries for each team member.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
+The appication allows users to create accounts with relevant information for employeers and creates an HTML file with simmarizes information about each worker.
 
 ## Installation
 
